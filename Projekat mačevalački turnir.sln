@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekat mačevalački turnir", "Projekat mačevalački turnir\Projekat mačevalački turnir.csproj", "{2D6D70CD-260E-473A-B6DF-53E09093FCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6D70CD-260E-473A-B6DF-53E09093FCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6D70CD-260E-473A-B6DF-53E09093FCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6D70CD-260E-473A-B6DF-53E09093FCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6D70CD-260E-473A-B6DF-53E09093FCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BEBF5EC-E9CD-4E77-AC37-C1A704350EE9}
+	EndGlobalSection
+EndGlobal
